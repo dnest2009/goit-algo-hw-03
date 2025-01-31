@@ -18,3 +18,4 @@ def get_numbers_ticket(min, max, quantity):
         return get_numbers_ticket              #результат пустий список, невірний формат вхідних параметрів
 
 print(get_numbers_ticket(10,6,10))
+print(dir())
